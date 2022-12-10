@@ -1,0 +1,4 @@
+
+	"ip":"Rglifestealsmp.aternos.me",
+	"port": "22266",
+	"name": "smartyfan"
